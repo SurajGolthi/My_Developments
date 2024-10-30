@@ -2,7 +2,7 @@ import google.generativeai as genai
 import os
 
 # Configure the Google Gemini API
-genai.configure(api_key="AIzaSyBENnC8mfXMCC8kZ8TBJ9eNrT7gYo-37K0")
+genai.configure(api_key="Your Google API Key")
 
 # Define the prompt template
 # template = (
