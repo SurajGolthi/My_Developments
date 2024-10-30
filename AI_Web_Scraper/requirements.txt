@@ -1,0 +1,5 @@
+streamlit 
+selenium 
+pandas 
+google.generativeai 
+bs4 
